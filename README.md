@@ -21,12 +21,3 @@ Overall, I'm pretty excited about how this project turned out and I hope you wil
 ![Screenshot (611)](https://user-images.githubusercontent.com/91388754/232321633-48f37b05-a178-4066-bfc1-76f735e8b170.png)
 ![Screenshot (612)](https://user-images.githubusercontent.com/91388754/232321641-9f1ea5a0-eaac-408a-bde9-c7e0a54bb6fa.png)
 
-## This link allows you to support me, and I really appreciate your help:
-* [SUPPORT](https://www.buymeacoffee.com/AmirBayat)
-
-## My Socials:
-* [INSTAGRAM](https://www.instagram.com/codewithflexz)
-* [YOUTUBE]( https://www.youtube.com/c/ProgrammingWithFlexZ)
-* [CONTACT ME](https://amirbayat.dev@gmail.com)
-* [FIND MORE](https://zaap.bio/CodeWithFlexz)
-
